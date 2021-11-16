@@ -1,6 +1,6 @@
 # portfolio-v2
 
-Personal website, you can visit it at [www.sedky.ca](https://www.sedky.ca).  
+Personal website, you can visit it at [www.ashifur.com](https://ashifur57.github.io/Ashifur.github.io/).  
 
 It's just static JS/CSS, hosted for free using Github Pages.
 
